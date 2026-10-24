@@ -1,0 +1,2 @@
+# INTERNSHIP-Telecom-Churn-Prediction-Intern---Stat-infer-Software-Solutions-LLP
+Analyzed telecom customer behavior to identify churn patterns and risk factors. Cleaned and processed large datasets, created interactive dashboards using Excel and Power BI, assisted in predictive modeling, and documented insights for stakeholders. Improved data analysis, reporting, and visualization skills through real-world business projects.
